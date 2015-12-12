@@ -1,0 +1,25 @@
+{
+  "name": "meniac-api",
+  "description": "A API to megalomaniac project!",
+  "version": "0.0.1",
+  "author": "HackPUC 2015 - Grupo 11 - SmsTodosPedreiros",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "latest",
+    "mongoose": "latest"
+  },
+  "engines": {
+    "node": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SmsTudoPedreiro/meniac-api"
+  },
+  "keywords": [
+    "hackpuc",
+    "security"
+  ]
+}

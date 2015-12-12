@@ -1,0 +1,7 @@
+{
+  "name": "meniac-api",
+  "description": "A API to megalomaniac project!",
+  "repository": "https://github.com/SmsTudoPedreiro/meniac-api",
+  "keywords": ["tackpuc", "security"],
+  "image": "heroku/nodejs"
+}
