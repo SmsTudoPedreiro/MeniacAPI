@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "express": "latest",
-    "mongoose": "latest"
+    "mongojs": "latest"
   },
   "engines": {
     "node": "latest"
